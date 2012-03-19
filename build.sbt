@@ -9,5 +9,6 @@ scalacOptions += "-deprecation"
 // resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
 
 libraryDependencies ++= Seq(
-  "org.jsoup" % "jsoup" % "1.6.1"
+  "org.jsoup" % "jsoup" % "1.6.1",
+  "org.scalatest" %% "scalatest" % "1.7.1" % "test"
 )
