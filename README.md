@@ -1,6 +1,8 @@
 GoogleCalculator for Scala
 ==========================
 
+[![Build Status](https://secure.travis-ci.org/[CodeBlock]/[GoogleCalculator-scala].png)](http://travis-ci.org/[CodeBlock]/[GoogleCalculator-scala])
+
 This is just a very simple wrapper around Google Calculator, similar to what
 WWW::Google::Calculator does for Perl.
 
