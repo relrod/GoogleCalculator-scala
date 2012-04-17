@@ -2,4 +2,6 @@ language: scala
 scala:
   - 2.9.2
 notifications:
-  irc: "irc.tenthbit.net#programming"
+  irc:
+    channels:
+      - 'irc.tenthbit.net:6667#programming'
