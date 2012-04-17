@@ -1,7 +1,9 @@
 language: scala
 scala:
   - 2.9.2
+
 notifications:
   irc:
     channels:
       - 'irc.tenthbit.net:6667#programming'
+    skip_join: false
